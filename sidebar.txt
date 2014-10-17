@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mjo:home|Door43 (mjo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mjo|d43-mjo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mjo/archive/master.zip|d43-mjo.zip]]
+
+**Recent Changes**
+{{changes>ns = mjo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mjo|Ethnologue data]]
+
